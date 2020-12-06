@@ -5,8 +5,14 @@ Rozwiązania zadań z kursu Środowisko programisty na kierunku informatyka na W
 - Bash
 
 ### Lista 2
-- SVN
+- Svn
 
 ### Lista 3
-- SVN
+- Svn
+- Bash
+
+### Lista 4
+- Git
+- Svn
+- Bash
 
