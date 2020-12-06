@@ -3,3 +3,6 @@ Rozwiązania zadań z kursu Środowisko programisty na kierunku informatyka na W
 
 ### Lista 1
 - Bash
+
+### Lista 2
+- SVN
